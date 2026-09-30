@@ -1,6 +1,6 @@
 {
   "sourceRepository": "https://github.com/Zggggg123/BADSC",
-  "sourceCommit": "41bd8baa634594c319f0578dd39e71a6d85988aa",
+  "sourceCommit": "f664034c80a2c054481ba36ccbe3a4de5abf0802",
   "preview": false,
   "assets": {
     "index.html": "c87109baeb8cd0c43df785e1a2899413e35e48ced7838d00ce8717c0cc603367",
@@ -16,6 +16,9 @@
     "vendor/LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
     "vendor/index.web.js": "21dfee1fe29350cd3315a300b6e08cb1ba6b5a505fcefaaee939482ee2211794",
     "vendor/pkg.web/brotli_wasm.js": "cd7c6ad22230d9ad5618f4bc5b1a032677a18bcc9c7abecba6d5439beff031bc",
-    "vendor/pkg.web/brotli_wasm_bg.wasm": "9ef0a025046bf7d87b7cdb8eac3f73a5c8fea2f1adb848cc9768345573fcd8a9"
+    "vendor/pkg.web/brotli_wasm_bg.wasm": "9ef0a025046bf7d87b7cdb8eac3f73a5c8fea2f1adb848cc9768345573fcd8a9",
+    "LICENSE": "b8628d959ba7195e260822984936cb199674b3b19a7120fe95440da3e0ef0ae3",
+    "THIRD-PARTY-NOTICES.md": "a333da8e177d57af92b3c4030d53f4aec1b7f2be12975dbc1293164d2a3bf8ff",
+    "licenses/BA-Units-MIT.txt": "c2b8a3277c0af753160be2941a37df2758d02655c2fc81c01735f979e07983bd"
   }
 }

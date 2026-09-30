@@ -1,8 +1,8 @@
 # BADSC website
 
-Live site: https://zggggg123.github.io/BADSC-web/
+Live site: https://zgggg.top/BADSC-web/
 
-Generated from the BADSC development repository, commit 41bd8baa634594c319f0578dd39e71a6d85988aa.
+Generated from the BADSC development repository, commit f664034c80a2c054481ba36ccbe3a4de5abf0802.
 Do not edit website files here. Publish through the development repository.
 
 Deck files and share codes are processed entirely in the browser.

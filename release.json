@@ -1,0 +1,21 @@
+{
+  "sourceRepository": "https://github.com/Zggggg123/BADSC",
+  "sourceCommit": "41bd8baa634594c319f0578dd39e71a6d85988aa",
+  "preview": false,
+  "assets": {
+    "index.html": "c87109baeb8cd0c43df785e1a2899413e35e48ced7838d00ce8717c0cc603367",
+    "app.js": "3370117728cc3e192337fabbbfba6b12a2f5632d6d2ecc4f3c9e83d1d9f213f7",
+    "i18n.js": "a6a5bc2391bd597adf0e00e493af8eb5fc923a12b13d702c26c399fbe4f39f76",
+    "codec.js": "475056d7351df066e7a5ac1040c4e303e9dc9b73d3d5e626841bddc44f1f97a5",
+    "bads3-binary.js": "3acd2d922a18364c999b644dd5706fb8ef84a6f661c73ae9c97c062c163bb931",
+    "bads3-columns.js": "4f769f3284153c35c70cf18d0dd721bc56082789db2a03d7c6f08a6f5a998379",
+    "style.css": "a6cc7bb00304c91443bc5127c531a2c9722ba07a709d0b7889013772429ca3a5",
+    "favicon.svg": "e119db2b90261c78f33908e80c845c030d9db69070535d486b19dd69a3eb7f9e",
+    "dictionaries/2d60d18a6a896cb6.json": "2d60d18a6a896cb6a8e9da12fb045c30a47ae4b2dee4be0bc8dcf8b522f72f84",
+    "dictionaries/manifest.json": "a306f9fc90d8fa4ce6c2312b6eaae0f6b296086d6c7945a3f86ccd1ddd3d098a",
+    "vendor/LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "vendor/index.web.js": "21dfee1fe29350cd3315a300b6e08cb1ba6b5a505fcefaaee939482ee2211794",
+    "vendor/pkg.web/brotli_wasm.js": "cd7c6ad22230d9ad5618f4bc5b1a032677a18bcc9c7abecba6d5439beff031bc",
+    "vendor/pkg.web/brotli_wasm_bg.wasm": "9ef0a025046bf7d87b7cdb8eac3f73a5c8fea2f1adb848cc9768345573fcd8a9"
+  }
+}
